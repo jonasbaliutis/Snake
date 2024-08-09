@@ -37,7 +37,7 @@ body {
 .game-border-3 {
     border: #b2b3b5 solid 30px;
     border-radius: 20px;
-    box-shadow: inset 0 0 0 5px #b2b3b5;
+    box-shadow: inset 0 0 0 5px #454344;
     background-color: #010101;
 }
 
